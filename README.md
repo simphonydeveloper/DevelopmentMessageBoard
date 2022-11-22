@@ -15,6 +15,12 @@ Sometimes, some stores may need some different printed content.
 
 <img src="https://user-images.githubusercontent.com/118798499/203265913-726bc57c-991b-4214-a5e6-8e3d5374fde5.png" alt="image" style="width:50%;" />  
 
+## Pad Ordering
+Android or IOS Pad orders to Simphony
+
+## WeChat Ordering
+Only Chinese users are supported
+
 ## More
 For more information, please leave a message at Issues.
 Thanks.
