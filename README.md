@@ -1,2 +1,3 @@
-# DevelopmentMessageBoard
-This is a place to introduce development functions.
+Can leave a message about the quotation developed by Simphony through the Issues
+
+
