@@ -21,6 +21,10 @@ Android or IOS Pad orders to Simphony
 ## WeChat Ordering
 Only Chinese users are supported
 
+<img src="https://user-images.githubusercontent.com/118798499/203459729-b3fe6ce1-5794-4da4-836a-e3e236f01da3.jpg" alt="image" style="width:25%" /><img src="https://user-images.githubusercontent.com/118798499/203459734-5f77fc4d-ee04-46ab-801f-c5ec6666edf4.jpg" alt="image" style="width:25%" /><img src="https://user-images.githubusercontent.com/118798499/203459744-2b010525-a915-497d-9894-3da9bc1ecf56.jpg" alt="image" style="width:25%" /><img src="https://user-images.githubusercontent.com/118798499/203459749-b6bec278-bd4c-4bbb-8476-3552f93c8425.jpg" alt="image" style="width:25%" />
+
+
+
 ## More
 For more information, please leave a message at Issues.
 Thanks.
