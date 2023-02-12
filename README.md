@@ -5,6 +5,11 @@
 When you transfer Simphony from other POS, some reports may not meet your needs. Customized reports read Simphony client data and are presented in tables and can be printed.
 ![image](https://user-images.githubusercontent.com/118798499/203258039-c35a3940-d666-43b1-964b-c5b2da67fe57.png)
 
+## Chart
+The store manager knows the sales ratio of the store today. Currently, only Simphony 19.2 and higher versions are supported.
+![image](https://user-images.githubusercontent.com/118798499/218317015-ae895738-8f28-4d37-892c-c15e3e27b9b2.png)
+
+
 ## Check QRcode
 Sometimes, you want to add something extra to your check, such as the company's official website, products or other things. At this time, QR code is a very simple way.
 
