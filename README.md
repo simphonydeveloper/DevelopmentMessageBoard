@@ -1,5 +1,8 @@
-**Can leave a message about the quotation developed by Simphony through the Issues**
 
+## Contact
+Welcome to contact!  
+
+<a href="mailto:zhanglizero99@gmail.com" target="_blank">Email</a>
 
 ## Custom Report
 When you transfer Simphony from other POS, some reports may not meet your needs. Customized reports read Simphony client data and are presented in tables and can be printed.
@@ -33,7 +36,4 @@ Only Chinese users are supported
 For more information, please leave a message at Issues.
 Thanks.
 
-## Contact
-Welcome to contact!  
 
-<a href="mailto:zhanglizero99@gmail.com" target="_blank">Email</a>
