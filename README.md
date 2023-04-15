@@ -4,6 +4,8 @@ Welcome to contact!
 
 <a href="mailto:zhanglizero99@gmail.com" target="_blank">Email</a>
 
+##Remote API operation of Simphony OPS function
+<a href="https://www.youtube.com/watch?v=7jSeU4FeoW0" title="Link Title"><img src="https://user-images.githubusercontent.com/118798499/232232884-41922c92-fe7f-4b79-9e14-e569ede36dee.png" alt="Alternate Text" /></a>
 ## Custom Report
 When you transfer Simphony from other POS, some reports may not meet your needs. Customized reports read Simphony client data and are presented in tables and can be printed.
 ![image](https://user-images.githubusercontent.com/118798499/203258039-c35a3940-d666-43b1-964b-c5b2da67fe57.png)
