@@ -4,7 +4,8 @@ Welcome to contact!
 
 <a href="mailto:zhanglizero99@gmail.com" target="_blank">Email</a>
 
-##Remote API operation of Simphony OPS function
+## Remote API operation of Simphony OPS function
+For example, if you want to perform database updates or complete other tasks after executing TSAPI, it is used for this scenario.
 <a href="https://www.youtube.com/watch?v=7jSeU4FeoW0" title="Link Title"><img src="https://user-images.githubusercontent.com/118798499/232232884-41922c92-fe7f-4b79-9e14-e569ede36dee.png" alt="Alternate Text" /></a>
 ## Custom Report
 When you transfer Simphony from other POS, some reports may not meet your needs. Customized reports read Simphony client data and are presented in tables and can be printed.
@@ -33,6 +34,8 @@ Only Chinese users are supported
 
 <img src="https://user-images.githubusercontent.com/118798499/203459729-b3fe6ce1-5794-4da4-836a-e3e236f01da3.jpg" alt="image" style="width:25%" /><img src="https://user-images.githubusercontent.com/118798499/203459734-5f77fc4d-ee04-46ab-801f-c5ec6666edf4.jpg" alt="image" style="width:25%" /><img src="https://user-images.githubusercontent.com/118798499/203459744-2b010525-a915-497d-9894-3da9bc1ecf56.jpg" alt="image" style="width:25%" /><img src="https://user-images.githubusercontent.com/118798499/203459749-b6bec278-bd4c-4bbb-8476-3552f93c8425.jpg" alt="image" style="width:25%" />
 
+## Reservation to Simphony
+developing...
 
 ## More
 For more information, please leave a message at Issues.
