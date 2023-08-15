@@ -3,7 +3,9 @@
 Welcome to contact!  
 
 <a href="mailto:zhanglizero99@gmail.com" target="_blank">Email</a>
-
+## Surface Simphony Scan Barcode or QRCode.
+<a href="https://youtube.com/shorts/uTSoX-2X6vk?feature=share">Watch</a>
+<a href="https://youtube.com/shorts/uTSoX-2X6vk?feature=share" title="Link Title"><img src="https://github.com/simphonydeveloper/DevelopmentMessageBoard/assets/118798499/236fcdc4-dd9e-47c6-b123-17e9c40fe68b" alt="Alternate Text" /></a>
 ## Remote API operation of Simphony OPS function
 For example, if you want to perform database updates or complete other tasks after executing TSAPI, it is used for this scenario.
 <a href="https://www.youtube.com/watch?v=7jSeU4FeoW0" title="Link Title"><img src="https://user-images.githubusercontent.com/118798499/232232884-41922c92-fe7f-4b79-9e14-e569ede36dee.png" alt="Alternate Text" /></a>
