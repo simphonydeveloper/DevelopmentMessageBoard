@@ -2,6 +2,8 @@
 ## Contact
 Welcome to contact!  
 <a href="mailto:zhanglizero99@gmail.com" target="_blank">Email</a>
+## Technical Support
+Simphony Development (Extension, SIM) EMC Configuration. or other Simphony inquiries.
 
 ## Resources
 [3700 C# Models](https://github.com/simphonydeveloper/Micros3700Models)
