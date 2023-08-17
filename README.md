@@ -1,8 +1,11 @@
 
 ## Contact
 Welcome to contact!  
-
 <a href="mailto:zhanglizero99@gmail.com" target="_blank">Email</a>
+
+## Resources
+[3700 C# Models](https://github.com/simphonydeveloper/Micros3700Models)
+
 ## Surface Simphony Scan Barcode or QRCode.
 <a href="https://youtube.com/shorts/uTSoX-2X6vk?feature=share">Watch</a>
 <a href="https://youtube.com/shorts/uTSoX-2X6vk?feature=share" title="Link Title"><img src="https://github.com/simphonydeveloper/DevelopmentMessageBoard/assets/118798499/236fcdc4-dd9e-47c6-b123-17e9c40fe68b" alt="Alternate Text" /></a>
